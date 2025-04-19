@@ -1,8 +1,8 @@
 # Basic Repository Branch Structure
 
-Any project should have the following branches:
+Any code project should have the following branches:
 
-- **`main`**: This branch holds the **production-ready** code. It's always stable and is deployed to the live website. If there is a `master`, rename it to the `main` branch.
+- **`main`**: This branch holds the **production-ready** code. It's always stable and is deployed. If there is a `master`, rename it to the `main` branch.
 - **`dev`**: This branch is used for **active development**. It contains the latest features and updates, but might not always be stable.
 - **`staging`**: This branch is used for **staging or pre-production**. It contains the latest features and updates, but is used for testing before merging into `main`.
 

@@ -4,12 +4,13 @@ Keep your branch strategy simple.
 
 - Always push to the `main` branch from the `dev` or `staging` branch only.
 - **Pull before pushing:** Always pull the latest changes before pushing your work to avoid conflicts.
-- Follow the branch name restrictions mentioned at [Branch name conventions](/code/branch-naming-rules.md).
+- Follow the branch name restrictions mentioned at [Branch name conventions](/common/branch-naming-rules.md).
 - After a successful merge, delete the remote branch. **Never delete `dev` and `staging` branches.**
 - **Always branch from the correct base:**
     - `feature/`, `bugfix/`, `experiment/`, `chore/`, `docs/`, `test/`, `user/username/` should branch from `dev`.
     - `staging/` should branch from `dev` (when the code is stable).
     - `hotfix/` should branch directly from `main`.
+- Avoid `hotfix/` branches unless absolutely necessary. They should be used for urgent fixes directly on `main`.
 - **Use Pull Requests for all merges:**
     - All changes must be merged via a Pull Request (PR) — no direct commits to `main` or `dev`.
     - Review and get approval before merging.
