@@ -5,4 +5,4 @@ Thank you for considering contributing to this project! We welcome all kinds of 
 
 ## How to Contribute
 
-1. Create a branch from the `main` branch for your changes. `/code/rep``
+see [Contributing Guidelines to Repository](document/contributing-to-repository.md) for detailed instructions on how to contribute to the repository.

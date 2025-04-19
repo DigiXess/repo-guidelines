@@ -1,4 +1,4 @@
-# Commit Message Conventions
+# Commit Message Gui
 
 Below are the conventions for writing commit messages in this repository. Following these conventions helps maintain a clear and consistent history of changes, making it easier for everyone to understand the evolution of the codebase.
 
