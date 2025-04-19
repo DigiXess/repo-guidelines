@@ -1,6 +1,6 @@
 # Document Repository Guidelines
 
-This document outlines the guidelines for contributing to the document repository for consistent and collaborative development across all DigiXess projects.
+This document outlines the guidelines for contributing to the graphics assets such as logo, images, icons,vectors,videos etc. repository for consistent and collaborative development across all DigiXess projects.
 
 Follow the below guidelines:
 

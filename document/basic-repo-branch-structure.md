@@ -10,7 +10,8 @@ Additionally, use the following branch prefixes for specific purposes:
 | Prefix        | Purpose                                                                         |
 | ------------- | ------------------------------------------------------------------------------- |
 | `update/`     | For **updating existing documentation**. Branches off `draft`.                  |
-| `new-doc/`    | For creating **new documentation**. Branches off `draft`.                       |
+| `add/`        | For creating **new documentation**. Branches off `draft`.                       |
+| `remove/`     | For **removing outdated documentation**. Branches off `draft`.                  |
 | `hotfix/`     | For **urgent corrections** to published documentation directly on `main`.       |
 | `archive/`    | For **archiving outdated documentation** that is no longer relevant.            |
 | `experiment/` | For **testing new formats, layouts, or tools** for documentation.               |
@@ -18,7 +19,7 @@ Additionally, use the following branch prefixes for specific purposes:
 
 ### Example Workflow
 
-1. A new feature requires documentation. Create a branch `new-doc/feature-guide` off `draft`.
-2. Write the documentation and push changes to the `new-doc/feature-guide` branch.
-3. Once complete, merge `new-doc/feature-guide` into `draft` via a pull request.
+1. A new feature requires documentation. Create a branch `add/feature-guide` off `draft`.
+2. Write the documentation and push changes to the `add/feature-guide` branch.
+3. Once complete, merge `add/feature-guide` into `draft` via a pull request.
 4. Review and finalize the changes in `draft`. If everything looks good, merge `draft` into `main` to publish the updates via pull request.

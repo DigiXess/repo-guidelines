@@ -7,7 +7,7 @@ Keep your branch strategy simple for managing documentation repositories.
 - Follow the branch name restrictions mentioned at [Branch name conventions](/common/branch-naming-rules.md).
 - After a successful merge, delete the remote branch. **Never delete `draft` branches.**
 - **Always branch from the correct base:**
-    - `update/`, `new-doc/`, `experiment/`, `chore/` should branch from `draft`.
+    - `update/`, `add/`,`remove/` `experiment/`, `chore/` should branch from `draft`.
     - `hotfix/` should branch directly from `main`.
 - Avoid `hotfix/` branches unless absolutely necessary. They should be used for urgent corrections directly on `main`.
 - **Use Pull Requests for all merges:**
