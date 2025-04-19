@@ -1,4 +1,4 @@
-## Basic Repository Branch Structure
+# Basic Repository Branch Structure
 
 Any project should have the following branches:
 
