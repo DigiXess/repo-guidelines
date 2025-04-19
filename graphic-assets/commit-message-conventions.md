@@ -1,6 +1,6 @@
 # Commit Message Conventions
 
-Below are the conventions for writing commit messages in this documentation repository. Following these conventions helps maintain a clear and consistent history of changes, making it easier for everyone to understand the evolution of the documentation.
+Below are the conventions for writing commit messages in this graphic assets repository. Following these conventions helps maintain a clear and consistent history of changes, making it easier for everyone to understand the evolution of the assets.
 
 **Table of Contents**
 - [Format](#format)
@@ -29,21 +29,21 @@ end of body ]
 
 | Type        | Purpose                                                 |
 | ----------- | ------------------------------------------------------- |
-| `add:`      | Adding new documents                   |
-| `remove:`   | Removing outdated or redundant documents            |
-| `archive:`   | Archiving unused or outdated documents            |
-| `update:`   | Updating existing documents                 |
-| `fix:`      | Fixing errors or inconsistencies in documentation       |
-| `style:`    | Formatting or structure changes in documentation        |
-| `chore:`    | Maintenance tasks related to documentation              |
-| `refactor:` | Reorganizing or restructuring documentation             |
+| `add:`      | Adding new graphic assets                               |
+| `remove:`   | Removing outdated or redundant graphic assets           |
+| `archive:`  | Archiving unused or outdated graphic assets             |
+| `update:`   | Updating existing graphic assets                        |
+| `fix:`      | Fixing errors or inconsistencies in graphic assets      |
+| `style:`    | Formatting or structure changes in graphic assets       |
+| `chore:`    | Maintenance tasks related to graphic assets             |
+| `refactor:` | Reorganizing,Optimizing, or restructuring graphic assets            |
 
 Example:
 
 ```
-fix: correct typos in installation guide
-add: create new section for API documentation
-remove: delete deprecated usage examples
+fix: correct color profile in logo asset
+add: add new banner graphic for homepage
+remove: delete outdated icons from branding folder
 ```
 
 ## Guidelines to Follow
@@ -56,9 +56,8 @@ remove: delete deprecated usage examples
 ## Full Example Commit Message
 
 ```
-add: add FAQ section to documentation
+add: add new logo asset for branding
 
-Introduced a new FAQ section to address common questions and provide quick answers for users. This improves the usability of the documentation.
+Added a new logo asset to the branding folder. This logo will be used across all marketing materials and replaces the old version.
 
-Issue #52
-```
+Closes Issue #46

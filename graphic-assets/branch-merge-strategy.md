@@ -1,6 +1,6 @@
 # Branch and Merge Strategy
 
-Keep your branch strategy simple for managing documentation repositories.
+Keep your branch strategy simple for managing graphic asset repositories.
 
 - Always push to the `main` branch from the `draft` branch only.
 - **Pull before pushing:** Always pull the latest changes before pushing your work to avoid conflicts.
@@ -19,7 +19,7 @@ Keep your branch strategy simple for managing documentation repositories.
 - **Resolve Conflicts Proactively:**
     - Regularly pull from `draft` and resolve conflicts before opening a PR.
     - Avoid large, long-lived branches to minimize conflict risk.
-- **Always Test:** Always review and test your documentation thoroughly before merging it into the `main` or `draft` branches to ensure it doesn't introduce any errors or inconsistencies.
+- **Always Test:** Always review and test your graphic assets thoroughly before merging it into the `main` or `draft` branches to ensure it doesn't introduce any errors or inconsistencies.
 - **Use `git stash` for uncommitted work:** If you're working on something and need to switch to a different branch, use `git stash` to temporarily save your changes without committing them. This prevents messy commits when you're in the middle of work.
 - **Always verify the following before merging to `main`:**
     - ✅ Changes are reviewed and approved.

@@ -67,6 +67,6 @@ This helps prepare for scalable, secure user management.
 
 BREAKING CHANGE: Legacy session-based auth has been removed.
 
-Closes #102
+Closes Issue #102
 Related to #88
 ```

@@ -11,7 +11,7 @@ This document outlines the guidelines for contributing to the document repositor
 
 ## How to Push Changes to the `dev` Branch
 
-Contributors and Developers have the permission to push changes directly to the `dev` branch. The `dev` branch is the main development branch where all changes are made before being merged into the `main` branch. Follow these steps to contribute to the `dev` branch:
+Contributors and Developer user group members have permission to push changes directly to the `dev` branch. The `dev` branch is the main development branch where all changes are made before being merged into the `main` branch. Follow these steps to contribute to the `dev` branch:
 
 1. Create a branch from `dev` by using:
    - Branch name conventions mentioned in [Branch name conventions](/common/branch-naming-rules.md). 
@@ -26,7 +26,7 @@ Contributors and Developers have the permission to push changes directly to the 
 
 ## How to Make Changes to the `main` Branch
 
-Only Integrators and Administrators have the permission to push changes directly to the `main` branch.
+Only members of the Integrators and Administrators user groups have permission to push changes directly to the `main` branch. 
 
 ### Steps to Merge `dev` into `main`
 

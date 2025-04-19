@@ -19,9 +19,7 @@ Follow the below guidelines:
 
 ---
 
-[basic-repo-branch-structure]: /document/basic-repo-branch-structure.md "Basic Repository Branch Structure"
-[branch-merge-strategy]:/document/branch-merge-strategy.md "Branch and Merge Strategy"
-[commit-message-conventions]: /document/commit-message-conventions.md "Commit Message Conventions"
-[tag-versioning-guidelines]: /document/tag-versioning-guidelines.md "Tag Versioning Guidelines"
-
-
+[basic-repo-branch-structure]: /graphic-assets/basic-repo-branch-structure.md "Basic Repository Branch Structure"
+[branch-merge-strategy]:/graphic-assets/branch-merge-strategy.md "Branch and Merge Strategy"
+[commit-message-conventions]: /graphic-assets/commit-message-conventions.md "Commit Message Conventions"
+[tag-versioning-guidelines]: /graphic-assets/tag-versioning-guidelines.md "Tag Versioning Guidelines"
