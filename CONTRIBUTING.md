@@ -9,4 +9,4 @@ see [Contributing Guidelines to Repository](/document/contributing-to-repository
 
 ## Updating CHANGELOG
 
-- Follow the [Changelog Guidelines](/common/changelog-guidelines.md "Changelog Guidelines") for detailed instructions on maintaining the changelogs.
+Follow the [Changelog Guidelines](/common/changelog-guidelines.md "Changelog Guidelines") for detailed instructions on maintaining the changelogs.
