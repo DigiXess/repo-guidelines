@@ -5,4 +5,8 @@ Thank you for considering contributing to this project! Please follow the guidel
 
 ## How to Contribute
 
-see [Contributing Guidelines to Repository](document/contributing-to-repository.md) for detailed instructions on how to contribute to the repository.
+see [Contributing Guidelines to Repository](/document/contributing-to-repository.md) for detailed instructions on how to contribute to the repository.
+
+## Updating CHANGELOG
+
+- Follow the [Changelog Guidelines](/common/changelog-guidelines.md "Changelog Guidelines") for detailed instructions on maintaining the changelogs.
