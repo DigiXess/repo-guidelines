@@ -25,8 +25,11 @@ Examples:
 ## Guidelines to Follow
 
 - Before tagging a version, ensure the following:
-  - The graphic assets are merged into the `main` branch.
-  - Any relevant documentation or metadata for the assets is updated to reflect the changes in the new version.
-- Do not tag `draft`, `update/`, or other WIP branches.
+  - The document is merged into the `main` branch.
+  - Documentation is updated to reflect the changes in the new version.
 - Ensure the tag adheres to the semantic versioning format.
 - Avoid overwriting existing tags.
+
+# Tagging `draft` versions
+- Use prefix `draft-` for draft or development versions if needed on `dev` branch.
+- Example: `draft-1.0.0` for a draft or development version of the 1.0.0 release.
