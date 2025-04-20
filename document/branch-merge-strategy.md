@@ -10,6 +10,8 @@ Keep your branch strategy simple for managing documentation repositories.
     - `update/`, `add/`,`remove/` `experiment/`, `chore/` should branch from `draft`.
     - `hotfix/` should branch directly from `main`.
 - Avoid `hotfix/` branches unless absolutely necessary. They should be used for urgent corrections directly on `main`.
+- For draft version, use `draft` as the main branch and always pull from the latest `draft` tag.
+- Avoid pull request from `main` to `draft` except configuring repository.
 - **Use Pull Requests for all merges:**
     - All changes must be merged via a Pull Request (PR) — no direct commits to `main` or `draft`.
     - Review and get approval before merging.

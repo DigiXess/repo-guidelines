@@ -11,6 +11,8 @@ Keep your branch strategy simple.
     - `staging/` should branch from `dev` (when the code is stable).
     - `hotfix/` should branch directly from `main`.
 - Avoid `hotfix/` branches unless absolutely necessary. They should be used for urgent fixes directly on `main`.
+- For development, use `dev` as the main branch and always pull from the latest `dev` tag.
+- Avoid pull request from `main` to `dev` except configuring repository.
 - **Use Pull Requests for all merges:**
     - All changes must be merged via a Pull Request (PR) — no direct commits to `main` or `dev`.
     - Review and get approval before merging.
