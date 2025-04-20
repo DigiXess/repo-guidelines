@@ -5,6 +5,7 @@ We follow [Semantic Versioning](https://semver.org/) to ensure consistency and c
 **Table of Contents**
 - [Format](#format)
 - [Guidelines to Follow](#guidelines-to-follow)
+- [Guidelines to Follow](#guidelines-to-follow-1)
 - [Pre-release Tags](#pre-release-tags)
 - [Automation](#automation)
 
@@ -37,6 +38,20 @@ Examples:
 - Do not tag `dev`, `feature/`, or other WIP branches.
 - Ensure the tag adheres to the semantic versioning format.
 - Avoid overwriting existing tags.
+
+## Guidelines to Follow
+
+- Before tagging a version, ensure the following:
+  - CI/CD pipelines are green.
+  - The code is merged into the `main` branch.
+  - Documentation is updated to reflect the changes in the new version.
+- Ensure the tag adheres to the semantic versioning format.
+- Avoid overwriting existing tags.
+
+
+# Tagging `dev` versions
+- Use prefix `dev-` for development versions if needed on `dev` branch.
+- Example: `dev-1.0.0` for a development version of the 1.0.0 release.
 
 ## Pre-release Tags
 
