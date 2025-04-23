@@ -2,12 +2,12 @@
 
  Copyright (c) 2022-present DigiXess
 
-This document designed and developed (hereby referred to as "**the document**") by **DigiXess** (hereby referred to as the "**Company**" or "**We**") to be used in projects across DigiXess 
+This document designed and developed (hereby referred to as "**the document**") by **DigiXess** (hereby referred to as the "**Company**" or "**We**") to be used in projects across DigiXess.But can be used by others for their projects as well. The templates are provided under the following terms and conditions: 
 
 **Table of Contents**
 
 - [Document Ownership](#document-ownership)
-- [Third Party Vendors Accessing our Documents](#third-party-vendors-accessing-our-documents)
+- [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](#creative-commons-attribution-noncommercial-sharealike-cc-by-nc-sa)
 - [Contact](#contact)
 - [Governing Law](#governing-law)
 
@@ -15,13 +15,20 @@ This document designed and developed (hereby referred to as "**the document**") 
 
 We retain ownership and rights to all documents and associated digital assets within this repository, including but not limited to styles, images, videos, audio, icons, and content.
 
-## Third Party Vendors Accessing our Documents
+## Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
 
-1. You can make copies as a part or whole without our permission.
-2. You cannot make updates, modify or sell commercially as a part or whole without our permission.
-3. We will terminate access to our document if you violate any rules specified in point [2].
-4. Upon termination, you must cease working on or using the document and destroy any copies. The Company reserves the right to pursue any necessary legal action.
-5. The Company shall not be liable for any direct or indirect damages arising from the use or working on the documents.
+This repository is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. This means you are free to:
+
+1. **Share**: Copy and redistribute the material in any medium or format.
+2. **Adapt**: Edit, and build upon the material for non-commercial purposes.
+
+Under the following terms:
+
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial**: You may not use the material for commercial purposes.
+- **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more details, see the full license at [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License").
 
 ## Contact
 
